@@ -1,0 +1,170 @@
+
+@media (min-width: 709px) and (max-width: 1024px) {
+  
+    /* CSS rules for screens between 769px and 1024px */
+   img{
+    height:200px;
+    width: 450px;
+}
+header{
+    text-align: center;
+}.ma{
+text-align: center;
+display: flex;
+
+}
+body{
+    background-color: rgba(4, 4, 4, 0.316);
+}
+input{
+    border: 0.5px black solid;
+
+    margin: 39px;
+    height: 20px;
+    width: 250px;
+    border-radius: 7px;
+}
+button{
+    border-radius: 7px;
+    background-color:rgb(254, 156, 52) ;
+    height: 35px;
+    width: 100px;
+}
+nav{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+
+  }
+  @media (max-width: 768px) {
+    /* CSS rules for screens smaller than 768px */
+ /* CSS rules for screens between 769px and 1024px */
+ img{
+    height:200px;
+    width: 450px;
+}
+header{
+    text-align: center;
+}.ma{
+    margin-top: 26px;
+text-align: center;
+display: flex;
+
+}
+body{
+    background-color: rgba(4, 4, 4, 0.316);
+}
+input{
+    border: 0.5px black solid;
+flex: 1;
+    margin: 39px;
+    height: 20px;
+    width: 250px;
+    border-radius: 7px;
+}
+button{
+    border-radius: 7px;
+    background-color:rgb(254, 156, 52) ;
+    height: 35px;
+    width: 100px;
+}
+nav{
+    text-align: center;
+    margin-bottom: 55px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+  }
+  
+  @media (min-width: 1025px){
+
+
+
+
+
+
+
+
+
+     /* CSS rules for screens between 769px and 1024px */
+     img{
+        height:200px;
+        width: 450px;
+    }
+    header{
+        text-align: center;
+    }
+    .ma{
+    text-align: center;
+    
+    }
+    body{
+        background-color: rgba(4, 4, 4, 0.316);
+    }
+    input{
+        border: 0.5px black solid;
+    
+        margin: 39px;
+        height: 20px;
+        width: 250px;
+        border-radius: 7px;
+    }
+    button{
+        border-radius: 7px;
+        background-color:rgb(254, 156, 52) ;
+        height: 35px;
+        width: 100px;
+    }
+    nav{
+        text-align: center;
+    }
+    a{
+        text-decoration: none;
+        color:black;
+    }
+    
+      }
+      @media (max-width: 768px) {
+        /* CSS rules for screens smaller than 768px */
+     /* CSS rules for screens between 769px and 1024px */
+     img{
+        height:200px;
+        width: 450px;
+    }
+    header{
+        text-align: center;
+    }.ma{
+    text-align: center;
+    display: flex;
+    
+    }
+    body{
+        background-color: rgba(4, 4, 4, 0.316);
+    }
+    input{
+        border: 0.5px black solid;
+    
+        margin: 39px;
+        height: 20px;
+        width: 250px;
+        border-radius: 7px;
+    }
+    button{
+        border-radius: 7px;
+        background-color:rgb(254, 156, 52) ;
+        height: 35px;
+        width: 100px;
+    }
+    nav{
+        text-align: center;
+    }
+    a{
+        text-decoration: none;
+        color:black;
+    }
+      }
